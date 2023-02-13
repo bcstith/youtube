@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bcstith/youtube/static/css/main.073c9b0a.css",
+    "main.js": "/bcstith/youtube/static/js/main.259f6e03.js",
+    "index.html": "/bcstith/youtube/index.html",
+    "main.073c9b0a.css.map": "/bcstith/youtube/static/css/main.073c9b0a.css.map",
+    "main.259f6e03.js.map": "/bcstith/youtube/static/js/main.259f6e03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.259f6e03.js"
+  ]
+}
